@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from Toulouse 🧱</h3>
 
 <p align="center">
-  With a passion for IT, I began a career change as a web developer, where I quickly developed a strong interest in Front-End.
+  With a passion for IT, I began a career change as a web developer, where I quickly developed a strong interest in Front End.
 </p>
 <p align="center">
   I really enjoy solving problems as well as making things pretty and easy to use.
